@@ -19,8 +19,7 @@ Redis, RabbitMQ, Alembic, and Sentry.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Eastwesser/candy-star.git
-    cd candy-star/backend/order-service
+    git clone https://github.com/Eastwesser/order-service.git
     ```
 
 2. Create and activate a virtual environment:
